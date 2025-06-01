@@ -35,7 +35,7 @@ Welcome to my digital garage of chaos, caffeine, and code. I'm a budding enginee
 ---
 
 ### 😄 Pronouns:
-He/Him/“Dude, your code broke the thing again”
+He/Him/'Bhai'
 
 ---
 
