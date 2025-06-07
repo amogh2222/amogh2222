@@ -8,7 +8,7 @@ Welcome to my digital garage of chaos, caffeine, and code. I'm a budding enginee
 - Autonomous systems (yes, I *do* think robots should have existential crises).
 - Cool hardware-software combos (Raspberry Pi is my spirit animal).
 - Open-source everything.
-- AI/ML... because Skynet isn’t going to build itself.
+- AI/ML... 
 
 ---
 
