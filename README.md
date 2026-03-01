@@ -1,48 +1,30 @@
-# 👋 Hey there, I'm Amogh!
-
-Welcome to my digital garage of chaos, caffeine, and code. I'm a budding engineer and enthusiastic tech explorer currently plotting world domination—one bug fix at a time.
-
----
-
-### 👀 What I'm interested in:
-- Autonomous systems (yes, I *do* think robots should have existential crises).
-- Cool hardware-software combos (Raspberry Pi is my spirit animal).
-- Open-source everything.
-- AI/ML... 
+<h1 align="center">Hi, I'm Amogh</h1>
+<p align="center">
+  Data Science • Quantitative Finance • Applied Machine Learning
+</p>
 
 ---
 
-### 🌱 Currently Learning:
-- Embedded Systems (I now speak fluent Arduino).
-- C++
-- ROS (Robot Operating System, not to be confused with Ross from Friends).
-- Git (still occasionally forget to commit though 😅).
+## About
+I build data-driven and analytical projects across finance, machine learning, and systems.  
+My repositories reflect practical implementations involving financial data, computer vision, and experimental tech stacks.
+
+## Tech Stack
+- Languages: Python, C++, Java  
+- Data & ML: Pandas, NumPy, Data Analysis, Visualization  
+- Tools & Frameworks: Git, Streamlit, OpenCV, MediaPipe  
+- Interests: Quantitative Finance, Market Analytics, Risk Modeling, Applied ML  
+
+## Work
+This profile contains a collection of:
+- Financial analytics and data-focused systems  
+- Machine learning and computer vision projects  
+- Experimental builds and hackathon projects  
+
+Each repository includes code, documentation, and implementation details.
 
 ---
 
-### 💞️ Looking to Collaborate On:
-- Robotics projects that involve motors, logic, and probably duct tape.
-- Open-source initiatives in automation or control systems.
-- Anything that beeps, blinks, or moves!
-
----
-
-### 📫 How to reach me:
-- Email:amoghsri02@gmail.com
-- LinkedIn:https://www.linkedin.com/in/amoghsri/
-- Or just shout really loudly. I have selective hearing but it might work.
-
----
-
-### 😄 Pronouns:
-He/Him
-
----
-
-### ⚡ Fun fact:
-I am a State level football player...
-
----
-
-> *"Code like you’re the only one who will read it. Document like you expect an audit. Commit like it's final, but know it never is."* – A wise future version of me, probably.
-
+<p align="center">
+  Finance × Data × Technology
+</p>
