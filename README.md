@@ -3,128 +3,91 @@
 
 <p align="center">
   <a href="https://github.com/amogh2222">
-    <img src="https://komarev.com/ghpvc/?username=amogh2222&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=amogh2222&label=Profile%20Views&color=blue&style=flat" />
   </a>
 </p>
 
 ---
 
-<h2>👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<ul>
-  <li>🤖 AI/ML Developer passionate about building intelligent systems and real-world AI applications</li>
-  <li>🧠 Interested in Computer Vision, Generative AI, Multimodal AI, and Intelligent Automation</li>
-  <li>🚀 Currently working on advanced AI projects focused on multimodal learning and scalable AI systems</li>
-  <li>📚 Exploring LLMs, AI agents, and AI infrastructure</li>
-  <li>🤝 Open to collaborations on AI/ML and open-source projects</li>
-  <li>📫 Reach me at: <b><a href="mailto:amoghsri02@gmail.com">amoghsri02@gmail.com</a></b></li>
-</ul>
+- 🤖 AI/ML Developer passionate about building intelligent systems
+- 🧠 Interested in Computer Vision, Multimodal AI, and Generative AI
+- 🚀 Exploring scalable AI systems and real-world ML applications
+- 📚 Currently learning LLMs, AI agents, and AI infrastructure
+- 🤝 Open to AI/ML collaborations and open-source contributions
+- 📫 Reach me at: **amoghsri02@gmail.com**
 
 ---
 
-<h2>⚒️ Tech Stack</h2>
+## ⚒️ Tech Stack
 
-<h3>Languages</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,sql" />
-</p>
+### Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h3>AI / ML</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
-
-<h3>Backend & Tools</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,docker,git,github,linux,vscode,postman,mongodb,mysql" />
-</p>
+### Backend & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=yellow)
 
 ---
 
-<h2>🚀 Featured Projects</h2>
-
-<h3>🧠 DeepTrace — Multimodal Deepfake Detection System</h3>
-
-<ul>
-  <li>Built a multimodal deepfake detection pipeline using PyTorch</li>
-  <li>Implemented EfficientNet spatial learning + DCT frequency analysis</li>
-  <li>Used CLIP-aligned feature learning and cross-attention fusion</li>
-  <li>Integrated GradCAM explainability and confidence calibration</li>
-</ul>
-
-<p>
-  <b>Tech Stack:</b> PyTorch • OpenCV • EfficientNet • CLIP • Albumentations
-</p>
-
-🔗 <a href="https://github.com/amogh2222/DeepTrace">Repository Link</a>
-
-<br>
-
-<h3>📈 IPO Risk Engine</h3>
-
-<ul>
-  <li>Developed a financial analytics system for IPO risk evaluation</li>
-  <li>Built data-driven risk analysis and visualization modules</li>
-  <li>Focused on predictive insights and analytical decision support</li>
-</ul>
-
-🔗 <a href="https://github.com/amogh2222/IPO-Risk-Engine-Aladdin">Repository Link</a>
-
-<br>
-
-<h3>🤖 AI Workspace Platform <i>(Upcoming)</i></h3>
-
-<ul>
-  <li>AI-powered collaborative workspace for intelligent workflows</li>
-  <li>Planned features include AI agents, multimodal retrieval, and memory systems</li>
-  <li>Focused on scalable AI application architecture and intelligent automation</li>
-</ul>
-
----
-
-<h2>📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amogh2222&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amogh2222&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amogh2222&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amogh2222&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogh2222&layout=compact&theme=tokyonight" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogh2222&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-<h2>🏆 Achievements</h2>
-
-<ul>
-  <li>🏅 Dean’s List for Academic Excellence</li>
-  <li>💻 Active contributor in hackathons and AI projects</li>
-  <li>🥈 Brain-O-Brain Silver Medalist (2017)</li>
-  <li>🩸 Blood Donation Volunteer</li>
-</ul>
-
----
-
-<h2>🌐 Connect With Me</h2>
-
-<p>
-  <a href="https://www.linkedin.com/in/amoghsri/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-
-  <a href="mailto:amoghsri02@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-</p>
-
----
 
 <p align="center">
-  ⭐ Building intelligent AI systems and impactful machine learning solutions.
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amogh2222&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amogh2222&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amogh2222&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amogh2222&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amogh2222&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amogh2222&theme=tokyo-night&hide_border=true" width="95%"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🏅 Dean’s List for Academic Excellence
+- 🥈 Brain-O-Brain Silver Medalist (2017)
+- 💻 Active contributor in AI projects and hackathons
+- 🩸 Blood Donation Volunteer
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/amoghsri/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="mailto:amoghsri02@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
 </p>
