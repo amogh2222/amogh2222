@@ -1,38 +1,41 @@
-<h1 align="center">Hi 👋, I'm Amogh Srivastava</h1>
-<h3 align="center">AI/ML Developer | Computer Vision | Intelligent Systems</h3>
+<h1 align="center">Hi there, I'm Amogh Srivastava 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/amogh2222">
-    <img src="https://komarev.com/ghpvc/?username=amogh2222&label=Profile%20Views&color=blue&style=flat" />
-  </a>
+  <a href="https://linkedin.com/in/amoghsri">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:amoghsri02@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://huggingface.co/spaces/amogh2/deeptrace">🤗 Live Demo</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 🧠 About Me
 
-- 🤖 AI/ML Developer passionate about building intelligent systems
-- 🧠 Interested in Computer Vision, Multimodal AI, and Generative AI
-- 🚀 Exploring scalable AI systems and real-world ML applications
-- 📚 Currently learning LLMs, AI agents, and AI infrastructure
-- 🤝 Open to AI/ML collaborations and open-source contributions
-- 📫 Reach me at: **amoghsri02@gmail.com**
+- 🤖 AI/ML Engineer · Computer Vision · Multimodal Systems
+- 🔬 Building **[DeepTrace](https://github.com/amogh2222/DeepTrace)** — deepfake detection at **0.9496 AUC** using spatial + frequency + CLIP fusion
+- 📄 Research paper under preparation for IEEE publication
+- 🎓 B.Tech CSE (Data Science) · Graduating Jan 2027
+- 🤝 Open to internships and research collaborations in CV / multimodal AI
+- 📫 **amoghsri02@gmail.com**
 
 ---
 
-## ⚒️ Tech Stack
+### ⚒️ Tech Stack
 
-### Languages
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white)
+**AI / ML**
 
-### Backend & Tools
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Deployment & Tools**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
@@ -40,54 +43,40 @@
 
 ---
 
-## 📊 GitHub Analytics
+### 🚀 Featured Project — DeepTrace
+
+> Most deepfake detectors collapse after social media compression — they over-rely on RGB features that JPEG strips away. **DeepTrace fixes this.**
+
+| Branch | Method | What it catches |
+|--------|--------|----------------|
+| 🖼️ Spatial | EfficientNet-B0 | Texture, blending & geometry artifacts |
+| 📡 Frequency | Block-wise DCT on YCrCb | Synthesis artifacts that survive compression |
+| 🧠 Semantic | CLIP ViT-B/32 (frozen) | Generalizes to unseen manipulation techniques |
+
+Three branches → cross-attention fusion → calibrated confidence + GradCAM heatmap
+
+| Accuracy | ROC AUC | Decision Threshold |
+|----------|---------|--------------------|
+| **0.90** | **0.9496** | 0.162 (temperature-scaled) |
+
+[**→ Try the live demo**](https://huggingface.co/spaces/amogh2/deeptrace) &nbsp;·&nbsp; [**→ View repo**](https://github.com/amogh2222/DeepTrace)
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amogh2222&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amogh2222&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amogh2222&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogh2222&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogh2222&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amogh2222&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amogh2222&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amogh2222&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amogh2222&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amogh2222&theme=tokyonight&utcOffset=5.5" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amogh2222&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amogh2222&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+### 🏆 Achievements
 
-- 🏅 Dean’s List for Academic Excellence
-- 🥈 Brain-O-Brain Silver Medalist (2017)
-- 💻 Active contributor in AI projects and hackathons
-- 🩸 Blood Donation Volunteer
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/amoghsri/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="mailto:amoghsri02@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-</p>
+- 🏅 Dean's List for Academic Excellence
+- 💻 Active contributor in AI/CV projects and hackathons
