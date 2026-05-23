@@ -2,8 +2,6 @@
 
 # Hi there, I'm Amogh Srivastava 👋
 
-### AI/ML Engineer • Deep Learning • Computer Vision • GenAI
-
 <a href="https://github.com/amogh2222">Contact me</a> •
 <a href="https://www.linkedin.com/in/amoghsri/">LinkedIn</a> •
 <a href="mailto:amoghsri02@gmail.com">Email</a>
