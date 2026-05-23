@@ -20,12 +20,42 @@
 
 <div align="center">
 
-| Deep Learning | GenAI Systems | Infrastructure |
-|---|---|---|
-| Vision Transformers | RAG Pipelines | Docker |
-| Deepfake Detection | Local LLMs | Linux |
-| Frequency Analysis | AI Agents | FastAPI |
-| Representation Learning | Vector Search | Git |
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🧠 Deep Learning
+
+Vision Transformers  
+Representation Learning  
+Frequency Analysis  
+CUDA Training  
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚡ GenAI
+
+RAG Pipelines  
+Local LLMs  
+AI Agents  
+Inference Systems  
+
+</td>
+
+<td align="center" width="33%">
+
+### 🛠 Infrastructure
+
+FastAPI  
+Docker  
+Linux  
+ML Pipelines  
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -33,6 +63,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amogh2222&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=amogh2222&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
