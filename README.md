@@ -13,11 +13,11 @@
 <tr>
 <td width="55%">
 
-## 🧑‍💻 About Me
+<h2>🙋‍♂️ About Me</h2>
 
-✨ Building AI systems powered by LLMs, RAG & multimodal intelligence   
-⚡ Focused on scalable ML pipelines and inference systems  
-🤝 Open to collaborating on impactful open-source projects  
+<p>✨ Building AI systems with LLMs, RAG & multimodal AI</p>
+<p>⚡ Focused on scalable ML pipelines & inference systems</p>
+<p>🤝 Open to collaborating on impactful open-source projects</p>  
 
 ---
 
