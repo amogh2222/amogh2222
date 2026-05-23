@@ -4,13 +4,13 @@
 
 ### AI/ML Engineer • Deep Learning • Computer Vision • GenAI
 
-<br/>
+<br>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=amogh2222&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogh2222&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br/>
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,linux,git,cpp,postgres,vscode" />
 
@@ -20,27 +20,12 @@
 
 <div align="center">
 
-## 🧠 Deep Learning & Vision
-
-```txt
-• Deepfake Detection
-• Vision Transformers
-• Frequency Analysis
-• Representation Learning
-• CUDA Training
-```
-
-<br/>
-
-## ⚡ GenAI & LLMs
-
-```txt
-• RAG Pipelines
-• Local LLMs
-• AI Agents
-• Vector Search
-• Inference Systems
-```
+| Deep Learning | GenAI Systems | Infrastructure |
+|---|---|---|
+| Vision Transformers | RAG Pipelines | Docker |
+| Deepfake Detection | Local LLMs | Linux |
+| Frequency Analysis | AI Agents | FastAPI |
+| Representation Learning | Vector Search | Git |
 
 </div>
 
