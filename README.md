@@ -15,10 +15,9 @@
 
 ## 🧑‍💻 About Me
 
-✨ AI/ML Engineer building real-world AI systems
+✨ Building AI systems powered by LLMs, RAG & multimodal intelligence
+⚡ Focused on scalable ML pipelines and inference systems
 🤝 Open to collaborating on impactful open-source projects
-⚡ Focused on scalable ML pipelines and inference systems  
-🔬 Exploring multimodal AI and research-driven engineering  
 
 ---
 
