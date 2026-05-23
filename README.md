@@ -4,9 +4,9 @@
 
 ### AI/ML Engineer • Deep Learning • Computer Vision • GenAI
 
-<a href="https://github.com/amogh2222">GitHub</a> •
-<a href="https://linkedin.com/">LinkedIn</a> •
-<a href="mailto:yourmail@gmail.com">Email</a>
+<a href="https://github.com/amogh2222">Contact me</a> •
+<a href="https://www.linkedin.com/in/amoghsri/">LinkedIn</a> •
+<a href="mailto:amoghsri02@gmail.com">Email</a>
 
 </div>
 
@@ -18,10 +18,10 @@
 
 ## 🧑‍💻 About Me
 
-✨ Building real-world AI systems and ML pipelines  
+✨ AI/ML Engineer building real-world AI systems  
 🚀 Working with Deep Learning, Computer Vision & GenAI  
-⚡ Focused on scalable inference systems and multimodal AI  
-🔬 Exploring research-driven AI engineering  
+⚡ Focused on scalable ML pipelines and inference systems  
+🔬 Exploring multimodal AI and research-driven engineering  
 
 ---
 
@@ -29,7 +29,7 @@
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,sql" />
 </p>
 
 ### AI / ML
@@ -39,12 +39,12 @@
 
 ### Backend & Infrastructure
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,docker,linux,git,postgres" />
+<img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,linux,git,postgres" />
 </p>
 
-### Tools
+### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,github" />
+<img src="https://skillicons.dev/icons?i=vscode,github,postman,firebase" />
 </p>
 
 </td>
