@@ -6,76 +6,48 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=amogh2222&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=amogh2222&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogh2222&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogh2222&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,linux,git,cpp,postgres,vscode" />
 
 </div>
 
 ---
 
-## 🧠 Deep Learning & Computer Vision
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
-
-</div>
+## 🧠 Deep Learning & Vision
 
 ```txt
-• Multimodal Deepfake Detection
+• Deepfake Detection
 • Vision Transformers
-• Frequency Domain Learning
+• Frequency Analysis
 • Representation Learning
-• Synthetic Media Detection
-• CUDA Accelerated Training
+• CUDA Training
 ```
 
----
+<br/>
 
-## ⚡ GenAI & LLM Systems
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,linux" />
-
-</div>
+## ⚡ GenAI & LLMs
 
 ```txt
 • RAG Pipelines
-• Local LLM Deployment
+• Local LLMs
 • AI Agents
-• Inference Optimization
-• Vector Search Systems
-• Scalable AI Workflows
+• Vector Search
+• Inference Systems
 ```
-
----
-
-## 🛠 Infrastructure & Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,git,postgres,vscode,github" />
 
 </div>
 
-```txt
-• Backend Development
-• API Systems
-• ML Pipeline Engineering
-• Research Workflows
-• Production-oriented Development
-```
-
 ---
-
-## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amogh2222&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amogh2222&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
