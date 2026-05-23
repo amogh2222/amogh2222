@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=70A5FD&center=true&vCenter=true&width=600&lines=Building+AI+Systems;Computer+Vision+%26+Deep+Learning;LLMs+%7C+Multimodal+AI+%7C+Research" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=70A5FD&center=true&vCenter=true&width=700&lines=Building+Multimodal+AI+Systems;Deepfake+Detection+%26+Computer+Vision;LLMs+%7C+RAG+%7C+AI+Agents;Research+Driven+AI+Engineering" />
 
 <br/><br/>
 
@@ -18,23 +18,60 @@
 
 ---
 
-# 🛠️ Tech Stack
+# 🧠 Deep Learning & Computer Vision
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,js,sql" />
-
-### AI / ML
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-
-### Backend & Infrastructure
-<img src="https://skillicons.dev/icons?i=fastapi,docker,linux,git,postgres" />
-
-### Tools
-<img src="https://skillicons.dev/icons?i=vscode,github" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 
 </div>
+
+```txt
+• Multimodal Deepfake Detection
+• Frequency Domain Analysis
+• Vision Transformers
+• Representation Learning
+• Synthetic Media Detection
+• CUDA Accelerated Training
+```
+
+---
+
+# ⚡ GenAI & LLM Systems
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,linux" />
+
+</div>
+
+```txt
+• RAG Pipelines
+• Local LLM Deployment
+• AI Agents
+• Inference Optimization
+• Vector Search Systems
+• Scalable AI Workflows
+```
+
+---
+
+# 🛠️ Infrastructure & Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,git,postgres,vscode,github" />
+
+</div>
+
+```txt
+• Backend Development
+• API Systems
+• ML Pipeline Engineering
+• Research Workflows
+• Model Experimentation
+• Production-oriented Development
+```
 
 ---
 
@@ -48,12 +85,10 @@
 
 ---
 
-# ⚡ Focus Areas
+<div align="center">
 
-```txt
-• Deepfake Detection
-• Multimodal Learning
-• Large Language Models
-• AI Infrastructure
-• Efficient ML Pipelines
-• Research-driven AI Systems
+<a href="https://github.com/amogh2222">
+  <img src="https://img.shields.io/badge/GitHub-amogh2222-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
