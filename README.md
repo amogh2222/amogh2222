@@ -2,7 +2,6 @@
 
 # Hi there, I'm Amogh Srivastava 👋
 
-<a href="https://github.com/amogh2222">Contact me</a> •
 <a href="https://www.linkedin.com/in/amoghsri/">LinkedIn</a> •
 <a href="mailto:amoghsri02@gmail.com">Email</a>
 
@@ -16,8 +15,8 @@
 
 ## 🧑‍💻 About Me
 
-✨ AI/ML Engineer building real-world AI systems  
-🚀 Working with Deep Learning, Computer Vision & GenAI  
+✨ AI/ML Engineer building real-world AI systems
+🤝 Open to collaborating on impactful open-source projects
 ⚡ Focused on scalable ML pipelines and inference systems  
 🔬 Exploring multimodal AI and research-driven engineering  
 
