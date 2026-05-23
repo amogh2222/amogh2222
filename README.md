@@ -6,13 +6,13 @@
 
 <br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amogh2222&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=amogh2222&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogh2222&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogh2222&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,linux,git,cpp,postgres,vscode" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,docker,linux,git,cpp,postgres,vscode&perline=11" />
 
 </div>
 
@@ -20,42 +20,12 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🧠 Deep Learning
-
-Vision Transformers  
-Representation Learning  
-Frequency Analysis  
-CUDA Training  
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚡ GenAI
-
-RAG Pipelines  
-Local LLMs  
-AI Agents  
-Inference Systems  
-
-</td>
-
-<td align="center" width="33%">
-
-### 🛠 Infrastructure
-
-FastAPI  
-Docker  
-Linux  
-ML Pipelines  
-
-</td>
-</tr>
-</table>
+| Deep Learning | GenAI | Infrastructure |
+| :---: | :---: | :---: |
+| Vision Transformers | RAG Pipelines | Docker |
+| Frequency Analysis | Local LLMs | Linux |
+| Representation Learning | AI Agents | FastAPI |
+| CUDA Training | Vector Search | ML Pipelines |
 
 </div>
 
