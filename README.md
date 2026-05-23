@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-✨ Building AI systems powered by LLMs, RAG & multimodal intelligence  
+✨ Building AI systems powered by LLMs, RAG & multimodal intelligence   
 ⚡ Focused on scalable ML pipelines and inference systems  
 🤝 Open to collaborating on impactful open-source projects  
 
